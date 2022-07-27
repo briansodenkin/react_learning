@@ -1,0 +1,2 @@
+200
+{"url":"vaccination-progress","title":"Vaccination Progress","items":[{"info":"Received at least one dose","stat":93.00,"color":"#00b2ff"},{"info":"Completed full regimen","stat":93.00,"color":"#0071c9"},{"info":"Received booster shot","stat":79.00,"color":"#003970"}]}
